@@ -48,7 +48,10 @@
 <br/>
 <br/>
 ## Project Screenshots
-![image](https://github.com/user-attachments/assets/10d23daa-4b8a-4b1b-81b2-f737a031f4e7)
+
+
+![image](https://github.com/user-attachments/assets/5a62603e-5493-4b26-bd06-fd2bf15f0360)
+
 
 ![image](https://github.com/user-attachments/assets/af6213b4-5bdb-4c0c-9410-978c19b4c56e)
 
