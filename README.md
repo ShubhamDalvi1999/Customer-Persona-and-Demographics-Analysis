@@ -41,7 +41,7 @@
   
  ✨ &emsp; This project leverages Power BI to deliver dynamic visualizations and actionable business intelligence. <br/><br/>
  ❤️ &emsp; It focuses on analyzing customer behavior, profit trends, and marketing ROI across different demographics and channels. <br/><br/>
- ☎️ &emsp; For inquiries, reach me at: dshubhamp1999@gmail.com<br/><br/>
+ ☎️ &emsp; For inquiries, reach me at: shubhamdworkmail@gmail.com<br/><br/>
 
 </p>
 <br/>
